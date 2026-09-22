@@ -1,5 +1,0 @@
-  1. www.anaconda.com   ( jupyter notebook)
-
-    
-
-    2. www.github.com     (code versioning system)
